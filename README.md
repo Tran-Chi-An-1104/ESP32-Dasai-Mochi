@@ -1,10 +1,6 @@
 ```markdown
 # ESP32 Dasai Mochi Clone 👾
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=ESP32+Dasai+Mochi+Clone" alt="Project Banner">
-</p>
-
 ## 📖 Introduction
 This repository contains the source code for an **ESP32-based clone of the Dasai Mochi** companion. The project utilizes an ESP32 microcontroller to drive a 0.96" TFT display, rendering retro-style pixel animations and GIF frames directly on your dashboard or desk. 
 
@@ -44,8 +40,8 @@ Connect the 8-pin ZJY096TFT ST7735S Display to your ESP32-S3 as follows:
 ### 2. Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/your-username/esp32-dasai-mochi.git](https://github.com/your-username/esp32-dasai-mochi.git)
-   ```
+   git clone [https://github.com/your-username/esp32-dasai-mochi.git](https://github.com/Tran-Chi-An-1104/esp32-dasai-mochi.git)
+
 2. Open the project folder in VS Code.
 3. PlatformIO will automatically read the `platformio.ini` file and install the necessary dependencies and frameworks.
 
